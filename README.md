@@ -42,7 +42,7 @@ Looking purely at the SARIMA model results, zipcode 23227 has the highest foreca
 
 ![st](images/sarima_trend.png)
 
-!![ser](images/sarima results.png)
+![ser](images/sarima results.png)
 
 ## Facebook Prophet Results
 The Facebook Prophet models forecast 23220 with the highest return of 5.77% but 23060 is very close behind with 5.67. 23227 which did best in the SARIMA modeling is 3rd with 4.95. It seems the Prophet model smoothed the forecast trend over the entire time dataset relative to the SARIMA model.
