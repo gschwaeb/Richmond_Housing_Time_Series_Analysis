@@ -53,6 +53,9 @@ The Facebook Prophet models forecast 23220 with the highest return of 5.77% but 
 
 
 ### Comparison
+
+In general the Prophet model predicted much lower price appreciation than the SARIMA model. It seems the SARIMA model took the most recent trend and expanded on it while the Prophet model smoothed the trend more over the entire time dataset. The large difference further justify taking the average of the two. The below chart shows the difference in the SARIMA model vs the Prophet model for 23060 and 23227
+
 ![comparison](images/comparison.png)
 
 ## Final Results
@@ -66,8 +69,8 @@ Annecdotally these two zipcodes are the most suburban zipcodes of the five, rece
 ## Next Steps
 Going further with more time and resources, I would like to take the following additional steps in order to improve the project:
 
--Add more ZIP codes to the analysis
--Do more model tuning with Facebook Prophet
--Do stepwise testing forecasting, testing and model evaluation with Facebook Prophet
--Interview real estate agents about the market trends to get qualitative analysis
+-Add more ZIP codes to the analysis. 
+-Do more model tuning with Facebook Prophet. 
+-Do stepwise testing forecasting, testing and model evaluation with Facebook Prophet. 
+-Interview real estate agents about the market trends to get qualitative analysis. 
 
