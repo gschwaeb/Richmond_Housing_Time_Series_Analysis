@@ -74,3 +74,14 @@ Going further with more time and resources, I would like to take the following a
 -Do stepwise testing forecasting, testing and model evaluation with Facebook Prophet. <br /> 
 -Interview real estate agents about the market trends to get qualitative analysis. <br /> 
 
+## Repository Structure
+
+```
+├── data
+├── images
+├── scrap_work
+├── .gitignore
+├── README.md
+├── Richmond Metro Area Housing Price Forecasting Using Time Series Analysis.pdf
+└── Richmond_Housing_Prices_TSA.ipynb
+```
