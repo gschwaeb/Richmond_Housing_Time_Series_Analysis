@@ -69,8 +69,8 @@ Annecdotally these two zipcodes are the most suburban zipcodes of the five, rece
 ## Next Steps
 Going further with more time and resources, I would like to take the following additional steps in order to improve the project:
 
--Add more ZIP codes to the analysis. 
--Do more model tuning with Facebook Prophet. 
--Do stepwise testing forecasting, testing and model evaluation with Facebook Prophet. 
--Interview real estate agents about the market trends to get qualitative analysis. 
+-Add more ZIP codes to the analysis.<br /> 
+-Do more model tuning with Facebook Prophet. <br /> 
+-Do stepwise testing forecasting, testing and model evaluation with Facebook Prophet. <br /> 
+-Interview real estate agents about the market trends to get qualitative analysis. <br /> 
 
