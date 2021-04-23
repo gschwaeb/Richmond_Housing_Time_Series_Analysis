@@ -20,7 +20,7 @@ The ZIP codes that were requested are as follows:
 23221(C) contains Carrytown, the Museum District, and Windsor Farms, thriving cultural areas of the city and adjacent suburbs.
 23220(D) contains the Fan District a central urban neighborhood where VCU is located, and surrounding areas.
 23227(E) contains the neighborhood of Bellevue, a picturesque area just outside the city and the town of Chamberlayne.
-![zipmap](images/richmond_zipcodes)
+![zipmap](images/richmond_zipcodes.png)
 
 ## Data
 The original data is gathered from Zillow. The dataframe contains the ZHVI for single family homes from every zipcode in the US from 1/31/1996 to 2/28/2021 on a monthly interval. The Zillow Home Value Index (ZHVI) is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range.
